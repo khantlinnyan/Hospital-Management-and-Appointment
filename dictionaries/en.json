@@ -1,0 +1,163 @@
+{
+    "navigation": {
+      "home": "Home",
+      "hospitals": "Hospitals",
+      "about": "About",
+      "contact": "Contact",
+      "profile": "Profile",
+      "partners": "Partners",
+      "doctors": "Doctors"
+    },
+    "page": {
+      "home": {
+        "title": "Find Your Best HEALER",
+        "description": "Discover the perfect healer tailored to your needs and preferences. Your journey to optimal well-being starts here.Your path to vibrant health and inner harmony begins with finding your best healer.",
+        "get_start": "Get Started Now",
+        "general_title": "General Medical Care",
+        "general_desc": "The branch of medicine that deals with the diagnosis and (nonsurgical) treatment of diseases of the internal organs (especially in adults).",
+        "surgical_title": "Surgical Services",
+        "surgical_desc": "Provide operative procedures (surgeries) for the correction of deformities and defects, repair of injuries, and cure of certain diseases.",
+        "specialized_title": "Specialized Treatments",
+        "specialized_desc": "Specialized treatment issues include specific screening techniques, ability to address both issues in the treatment plan.",
+        "emergency_title": "Emergency Care 24/7",
+        "emergency_desc": "Involves life-threatening illnesses or accidents which require immediate treatment and an emergency department (A&E).",
+        "maternity_title": "Maternity and Pediatrics",
+        "maternity_desc": "The health service provided to mothers (women in their child bearing age) and children.",
+        "covid_title": "COVID-19 Safety Measures",
+        "covid_desc": "Handles promotion of R&D, production, distribution policies, and drug pricing."
+      },
+      "hospital": {
+        "title": "PartnersHospitals",
+        "search_input": "Search Hospitals"
+      },
+      "doctor": {
+        "title": "HospitalDoctors",
+        "search_input": "Search Doctors"
+      },
+      "about": {
+        "title": "Our team",
+        "description": "At Team Fresher Team, our team of dedicated developers is at the heart of our success. With a passion for innovation and a commitment to excellence, they bring your digital dreams to life.",
+        "aungzawphyo": "Aung Zaw Phyo",
+        "khantlinnyan": "Khant Lin Nyan",
+        "lwinmoeaung": "Lwin Moe Aung",
+        "minheinkoko": "Min Hein Ko Ko",
+        "yoonyoonhtike": "Yoon Yoon Htike",
+        "developer": "Developer",
+        "ui_ux": "UI/UX"
+      },
+      "contact": {
+        "title": "Contact Us",
+        "name_input": "Your Name",
+        "email_input": "Your Email",
+        "message_input": "Your Message"
+      },
+      "profile": {
+        "logout": "Logout",
+        "appoint_list": "Appointment List",
+        "dashboard": "Dashboard",
+        "upcoming": "Upcoming",
+        "completed": "Completed",
+        "canceled": "Canceled",
+        "no_appoint": "No appointments found."
+      }
+    },
+    "doctor": {
+      "dashboard": "Dashboard",
+      "profile": "Profile",
+      "connected_hospitals": "Connected Hospitals",
+      "patients": "Patients",
+      "hospitals": "Hospitals",
+      "appointments": "Appointments",
+      "home": "Home",
+      "edit_profile": "Edit Profile",
+      "change_info": "Change Your Profile Information",
+      "name": "Name",
+      "email": "Email",
+      "phone": "Phone",
+      "address": "Address",
+      "password": "Password",
+      "close": "Close",
+      "confirm": "CONFIRM",
+      "download_appointment_excel": "Download Appointment Excel",
+      "see_more": "See More"
+    },
+    "hospital": {
+      "dashboard": "Dashboard",
+      "doctor_section": "Doctor Section",
+      "doctor_list": "Doctor List",
+      "register_doctor": "Register New Doctor",
+      "home": "Home",
+
+      "welcome": "Welcome To",
+      "doctors": "Doctors",
+      "patients": "Patients",
+      "appointments": "Appointments",
+      "hospital_info": "Hospital Information",
+      "hospital_name": "Hospital Name",
+      "phone": "Phone",
+      "email": "Email",
+      "address": "Address",
+      "location": "Location",
+      "bio": "Bio",
+      "view_doctor": "View Doctors",
+      "joined": "Joined",
+      "content": "Meet our dedicated hospital headmaster. With a wealth of experience and unwavering commitment,headmaster leads our medical team with compassion and expertise.",
+      "headmaster": "headmaster",
+      "change_headmaster": "Change Headmaster",
+      "select_content": "Select a new headmaster for the hospital. Please choose from the list below and click the button to assign.",
+      "please_select": "Please Select",
+      "assign": "Assign",
+
+      "hospital_doctors_1": "Hospital",
+      "hospital_doctors_2": "Doctors",
+      "search_doctor": "Search Doctor",
+      "delete": "Delete",
+
+      "doctor_register_1": "Doctor",
+      "doctor_register_2": "Register",
+      "doctor": "Doctor",
+      "license": "License",
+      "department": "Department",
+      "experience": "Experience",
+      "duty_start_time": "Duty Start Time",
+      "duty_end_time": "Duty End Time",
+      "enter_bio": "Enter bio ...",
+      "create": "Create"
+    },
+    "admin": {
+      "dashboard": "Dashboard",
+      "hospitals": "Hospitals",
+      "hospital_list": "Hospital List",
+      "doctors": "Doctors",
+      "doctor_list": "Doctor List",
+      "patients": "Patients",
+      "patient_list": "Patient List",
+      "department": "Departments",
+      "department_list": "Department List",
+      "create": "Create",
+      "home": "Home",
+
+      "create_hospital": "Create New Hospital",
+      "enter_name": "Enter name",
+      "enter_phone": "Enter phone",
+      "enter_email": "Enter email",
+      "enter_address": "Enter address",
+      "enter_location": "Enter location",
+      "enter_description": "Enter the description about hospital",
+
+      "create_doctor": "Create New Doctor",
+      "please_choose_user": "Please Choose User",
+      "please_choose_hospital": "Please Choose Hospital",
+      "please_choose_department": "Please Choose Department",
+      "enter_experience": "Enter work experience",
+      "enter_license": "Enter license number",
+      "enter_doctor_desc": "Enter the description",
+      "cancel": "Cancel",
+      
+      "create_patient": "Create New Patient",
+      
+      "create_department": "Create New Department",
+      "enter_department": "Enter Department name"
+    }
+  }
+  
